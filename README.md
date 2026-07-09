@@ -1,4 +1,4 @@
-# Rede Social (Layout)
+# Rede Social 
 
 Interface inspirada em rede social, praticando organização de layout com múltiplos componentes (posts, perfil, feed).
 
