@@ -5,7 +5,7 @@ Interface inspirada em rede social, praticando organização de layout com múlt
 🔗 **[Ver projeto ao vivo](https://brunomrc.github.io/projeto-social)**
 
 
-<img width="500" height="500" alt="Captura de ecrã 2026-07-09, às 10 07 20 AM" src="https://github.com/user-attachments/assets/265a362a-96f5-4e80-a75d-205fce29091c" />
+<img width="300" height="500" alt="Captura de ecrã 2026-07-09, às 10 07 20 AM" src="https://github.com/user-attachments/assets/265a362a-96f5-4e80-a75d-205fce29091c" />
 <img width="300" height="500" alt="Captura de ecrã 2026-07-09, às 10 07 06 AM" src="https://github.com/user-attachments/assets/0d8f4e4b-0306-4ca8-879f-756252b99382" />
 
 
